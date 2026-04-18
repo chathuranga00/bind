@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PAS-Blind-Matching-System-master", "PAS-Blind-Matching-System-master", "{46CF2A16-384E-5202-8F94-0B1BE782FD87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlindMatchAPI", "PAS-Blind-Matching-System-master\BlindMatchAPI\BlindMatchAPI.csproj", "{51E826C4-C2F7-ED41-3580-8AB680CE5585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E826C4-C2F7-ED41-3580-8AB680CE5585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E826C4-C2F7-ED41-3580-8AB680CE5585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E826C4-C2F7-ED41-3580-8AB680CE5585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E826C4-C2F7-ED41-3580-8AB680CE5585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51E826C4-C2F7-ED41-3580-8AB680CE5585} = {46CF2A16-384E-5202-8F94-0B1BE782FD87}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B9277EB-336D-4E0B-97EC-52929024AE90}
+	EndGlobalSection
+EndGlobal

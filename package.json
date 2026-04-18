@@ -1,0 +1,11 @@
+{
+  "name": "pas-blind-matching-system-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"PAS-Blind-Matching-System-master/blind-match-system-main\" run dev",
+    "install:frontend": "npm --prefix \"PAS-Blind-Matching-System-master/blind-match-system-main\" install",
+    "build": "npm --prefix \"PAS-Blind-Matching-System-master/blind-match-system-main\" run build",
+    "lint": "npm --prefix \"PAS-Blind-Matching-System-master/blind-match-system-main\" run lint",
+    "test": "npm --prefix \"PAS-Blind-Matching-System-master/blind-match-system-main\" run test"
+  }
+}
